@@ -1,0 +1,2 @@
+webpackJsonp([5],{Z2C8:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"search"},[this._v("\n    Search\n")])},staticRenderFns:[]};var s=t("VU/8")({name:"Search"},r,!1,function(e){t("kGeD")},null,null);n.default=s.exports},kGeD:function(e,n){}});
+//# sourceMappingURL=5.0cfe6ac0cc0408ea146d.js.map
